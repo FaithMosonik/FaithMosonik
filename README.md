@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @FaithMosonik
-- 👀 I’m interested in data science 
+- 👀 I’m interested in mobile development.
+- 👀 I have skills in Frontend web development.
 - 🌱 I’m currently learning Computer Science in JKUAT
 - 💞️ I’m looking to collaborate on projects that will help me move out of my comfort zone and upskill as well
 - 📫 How to reach me: email - mosonikchep@gmail.com , linkedIn - Faith Mosonik
